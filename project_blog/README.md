@@ -4,7 +4,7 @@ Este projeto é uma aplicação web de um Blog desenvolvida com Django e Django 
 
 ## Diagrama do Projeto
 
-![Diagrama Relacional](../../diagrama_relacional.jpg)
+![Diagrama Relacional](C:\Users\caduz\OneDrive\Documentos\GitHub\proj_web_django)
 
 ---
 
@@ -63,7 +63,6 @@ python manage.py runserver
 ```
 
 Acesse [http://127.0.0.1:8000/]no navegador.
-Página de admin [http://127.0.0.1:8000/admin] no navegador.
 ---
 
 ## Descrição
