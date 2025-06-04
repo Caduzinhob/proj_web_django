@@ -4,7 +4,8 @@ Este projeto é uma aplicação web de um Blog desenvolvida com Django e Django 
 
 ## Diagrama do Projeto
 
-![Diagrama Relacional]("image.png")
+![Diagrama Relacional](image.png)
+
 
 ---
 
